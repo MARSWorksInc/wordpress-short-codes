@@ -2,7 +2,7 @@
     "name": "marspress/short-code",
     "description": "Utility package to initiate new short codes in WordPress.",
     "type": "library",
-    "license": "gplv2",
+    "license": "GPL-2.0",
     "autoload": {
         "psr-4": {
             "MarsPress\\ShortCode\\": "src/"
