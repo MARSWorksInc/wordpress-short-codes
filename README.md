@@ -1,6 +1,6 @@
 # MarsPress ShortCode
 ### Installation
-Require the composer package `marspress/short-code` or run `composer install marspress/short-code`
+Require the composer package in your composer.json with `marspress/short-code` with minimum `dev-main` OR run `composer require marspress/short-code`
 
 ### Usage
 `new \MarsPress\ShortCode\Tag()` takes 4 parameters, 2 required and 2 optional.
