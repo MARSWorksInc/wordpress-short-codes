@@ -2,7 +2,7 @@
 ### Installation
 Require the composer package `marspress/short-code` or run `composer install marspress/short-code`
 
-###Usage
+### Usage
 `new \MarsPress\ShortCode\Tag()` takes 4 parameters, 2 required and 2 optional.
 * Tag Name (required)(string)
   * The tag name to use inside of WordPress. E.g. `output_user_info` would be used as such: `[output_user_info]`
