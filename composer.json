@@ -1,0 +1,21 @@
+{
+    "name": "marspress/short-code",
+    "description": "Utility package to initiate new short codes in WordPress.",
+    "type": "library",
+    "license": "gplv2",
+    "autoload": {
+        "psr-4": {
+            "MarsPress\\ShortCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MARSWorks Inc",
+            "email": "wordpress@marsworks.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    }
+}
